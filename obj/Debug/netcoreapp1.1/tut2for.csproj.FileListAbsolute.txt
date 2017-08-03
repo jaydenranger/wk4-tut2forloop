@@ -1,0 +1,8 @@
+C:\Users\10012125\desktop\tut2for\bin\Debug\netcoreapp1.1\tut2for.deps.json
+C:\Users\10012125\desktop\tut2for\bin\Debug\netcoreapp1.1\tut2for.runtimeconfig.json
+C:\Users\10012125\desktop\tut2for\bin\Debug\netcoreapp1.1\tut2for.runtimeconfig.dev.json
+C:\Users\10012125\desktop\tut2for\obj\Debug\netcoreapp1.1\tut2for.AssemblyInfo.cs
+C:\Users\10012125\desktop\tut2for\bin\Debug\netcoreapp1.1\tut2for.dll
+C:\Users\10012125\desktop\tut2for\bin\Debug\netcoreapp1.1\tut2for.pdb
+C:\Users\10012125\desktop\tut2for\obj\Debug\netcoreapp1.1\tut2for.dll
+C:\Users\10012125\desktop\tut2for\obj\Debug\netcoreapp1.1\tut2for.pdb
